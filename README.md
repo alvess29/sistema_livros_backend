@@ -4,7 +4,7 @@ API REST do sistema de cadastro de livros, feita com Java 17 e Spring Boot. Os d
 
 ## Equipe
 
-### Ivan Roberto Gomes Alves dos Santos (maior parte do back-end)
+### Ivan Roberto Gomes Alves dos Santos
 
 API REST e acesso aos dados.
 
