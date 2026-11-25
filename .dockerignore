@@ -1,0 +1,7 @@
+target/
+firebase-service-account.json
+.git
+.settings/
+.classpath
+.project
+.idea/
